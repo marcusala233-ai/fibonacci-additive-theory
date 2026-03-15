@@ -1,5 +1,7 @@
 # On Modular Constrictions, Analytic Sieves, and the Density of Chen Primes in Fibonacci Numbers
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19033634-blue.svg)](https://doi.org/10.5281/zenodo.19033634)
+
 This repository hosts the official compiled PDF of the mathematical paper exploring the intersection of the Fibonacci sequence and Additive Number Theory.
 
 ## Author
@@ -24,6 +26,7 @@ If you reference the theorems, topological models, or the Chen-Fibonacci density
   author={Roriz, Marcus Ala Pedreira},
   year={2026},
   institution={Universidade Federal de Goiás (UFG)},
+  doi={10.XXXX/zenodo.XXXXXXX},
+  url={[https://doi.org/10.XXXX/zenodo.XXXXXXX](https://doi.org/10.XXXX/zenodo.XXXXXXX)},
   note={Preprint hosted on GitHub}
 }
-
