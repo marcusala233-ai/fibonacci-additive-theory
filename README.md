@@ -26,7 +26,7 @@ If you reference the theorems, topological models, or the Chen-Fibonacci density
   author={Roriz, Marcus Ala Pedreira},
   year={2026},
   institution={Universidade Federal de Goiás (UFG)},
-  doi={10.XXXX/zenodo.XXXXXXX},
-  url={[https://doi.org/10.XXXX/zenodo.XXXXXXX](https://doi.org/10.XXXX/zenodo.XXXXXXX)},
+  doi={10.5281/zenodo.19033634},
+  url={[https://doi.org/10.5281/zenodo.19033634](https://doi.org/10.5281/zenodo.19033634)},
   note={Preprint hosted on GitHub}
 }
